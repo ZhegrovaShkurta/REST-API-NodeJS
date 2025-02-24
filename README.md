@@ -5,7 +5,6 @@ This API allows users to:
 
 -  Register and log in  
 -  View their profile
--  Add cars to the system  
 -  Filter rental cars based on different parameters  
 
 ---
