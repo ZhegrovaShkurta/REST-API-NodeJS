@@ -22,7 +22,7 @@ To use this API, you need to have the following installed:
 ## Install the required dependencies:
 
 - **npm init -y** 
-- **npm install express mongodb bcryptjs jsonwebtoken dotenv**
+- **npm install express mongodb bcryptjs jsonwebtoken body-parser dotenv**
 
 ---
 
